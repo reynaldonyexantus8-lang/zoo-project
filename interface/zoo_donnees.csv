@@ -1,0 +1,5 @@
+identifiant,nom,espece,age,poids,enclos,statut_sante
+A999,Alex,Lion,2,100.1,Zone C,Bon
+A000,Rey,Lion,8,180.0,Zone interdite,Bon
+B222,Sam,singe,2,44.0,Zone E,Malade
+C222,Poter,Tigre,3,67.0,Zone A,Sous suveillance
