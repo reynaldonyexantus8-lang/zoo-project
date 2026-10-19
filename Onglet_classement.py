@@ -45,7 +45,7 @@ class OngletClassement(QWidget):
         critere = self.combo_critere.currentText()
 
         # Trier les annimaux (Age ou Poids)
-        if critere == "age":
+        if critere == "Age":
             animaux.sort(key=lambda a: a.age, reverse=not self.ordre_ascendant)
         else:
             animaux.sort(key=lambda a: a.poids, reverse=not self.ordre_ascendant)
