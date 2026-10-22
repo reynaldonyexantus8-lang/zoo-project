@@ -68,4 +68,4 @@ venv\Scripts\activate
 Pour exécuter l'application, lancez la commande suivante depuis la racine du projet:
 "python main_window.py"
 
-Vous pouvez aussi consulter ce projet sur ma page [GitHub](https://github.com/reynaldonyexantus8-lang/Zoo)
+Vous pouvez aussi consulter ce projet sur ma page [GitHub](https://github.com/reynaldonyexantus8-lang/zoo-project)
