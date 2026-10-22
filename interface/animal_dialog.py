@@ -26,7 +26,6 @@ class AnimalDialog(QDialog):
         self.input_statut = QComboBox()
         self.input_statut.addItems(["Bon", "Sous suveillance", "Malade"])
 
-        layout.addRow("ID:", self.input_id)
         layout.addRow("Non:", self.input_nom)
         layout.addRow("Espece:", self.input_espece)
         layout.addRow("Age:", self.input_age)

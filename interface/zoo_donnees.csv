@@ -1,21 +1,23 @@
 identifiant,nom,espece,age,poids,enclos,statut_sante
-A999,Alex,Lion,2,100.1,Zone C,Bon
-A000,Rey,Lion,8,180.0,Zone interdite,Bon
-B222,Sam,singe,2,44.0,Zone E,Malade
-C222,Poter,Tigre,3,67.0,Zone A,Sous suveillance
-A222,Simba,Lion,9,149.4,Zone A,Bon
-A110,Sani,Elephant,3,229.7,Zone E,Bon
-A223,Go,Girafe,5,145.0,Zone F,Sous suveillance
-G22,Alphine,Ours,1,123.0,Zone W,Bon
-S222,Saphin,Serpent,4,120.0,Zone Interdite,Bon
-Q110,Dasa,Lapin,5,56.0,Zone R,Bon
-Z220,Lyle,Crocrodile,6,210.0,Zone T,Sous suveillance
-W330,Tom,Chat,2,55.2,Zone N,Malade
-G100,Testu,Tortue,2,220.7,Zone J,Malade
-X22,Anura,Grenouille,1,18.0,Zone A,Sous suveillance
-H230,Valu,Serpent,3,78.9,Zone Interdite,Sous suveillance
-W341,Daline,Giraphe,4,90.9,Zone F,Malade
-S221,Fanie,Ours,4,315.0,Zone W,Bon
-W339,Felis,Chat,3,68.9,Zone N,Malade
-T221,Ory,Lapin,3,110.0,Zone R,Bon
-A900,Line,Tigre,7,210.0,Zone A,Bon
+ANI-1,Alex,Lion,10,220.0,Zone A,Bon
+ANI-2,Pierre,Crocodile,4,200.0,Zone C,Sous suveillance
+ANI-3,Paul,Serpent,2,47.0,Zone D,Malade
+ANI-4,Pie,Lion,3,190.0,Zone A,Bon
+ANI-5,Sam,Crocodile,5,33.4,Zone D,Malade
+ANI-6,Simon,Grenouille,6,67.0,Zone R,Sous suveillance
+ANI-7,Sony,Chat,3,27.7,Zone S,Sous suveillance
+ANI-8,Tom,Chat,6,79.0,Zone D,Bon
+ANI-9,Paul,Chien,4,70.4,Zone T,Bon
+ANI-10,Dore,Lion,15,68.7,Zone A,Malade
+ANI-11,Lyle,Crocrodile,6,220.0,Zone D,Bon
+ANI-12,Cratos,Elephant,4,230.0,Zone U,Sous suveillance
+ANI-13,Zazoo,Chien,4,45.2,Zone B,Sous suveillance
+ANI-14,Xavier,Elephant,7,163.0,Zone U,Bon
+ANI-15,Quote,Chat,8,26.5,Zone R,Malade
+ANI-16,Danie,Tigre,6,220.0,Zone A,Bon
+ANI-17,Sonia,Tigre,5,90.4,Zone A,Sous suveillance
+ANI-18,Tony,Chat,1,24.0,Zone D,Sous suveillance
+ANI-19,Wani,Girafe,8,56.9,Zone Y,Sous suveillance
+ANI-20,Halie,Girafe,9,33.5,Zone Y,Malade
+ANI-21,Zari,Serpent,5,45.8,Zone Q,Sous suveillance
+ANI-22,Katty,Chat,3,12.0,ggg,Bon

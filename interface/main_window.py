@@ -98,9 +98,13 @@ class MainWindow(QMainWindow):
         dialog = AnimalDialog(self)
         if dialog.exec() == AnimalDialog.DialogCode.Accepted:
             data = dialog.recuper_donnees()
+            if any(char.isdigit() for char in data["nom"]) or any(char.isdigit() for char in data["espece"]):
+                QMessageBox.warning(self, "Attention", "Le nom et l'espèce ne doivent pas contenir de chiffres !")
+                return
             try:
+                nouvel_id = f"ANI-{len(self.zoo.animaux) + 1}"
                 nouvel_animal = Animal(
-                    data["identifiant"], 
+                    nouvel_id, 
                     data["nom"], 
                     data["espece"],
                     int(data["age"]), 
