@@ -51,7 +51,7 @@ class OngletStatistiques(QWidget):
         <span style="color: #2E7D32; font-weight: bold;"> QUANTITE TOTAL D'ANIMAUX:</span> {total_animaux}<br>
         <span style="color: #1565C0;"> Age moyen:</span> {age_moyen:.2f} ans<br>
         <span style="color: #1565C0;"> Poids moyen:</span> {poids_moyen:.2f} kg<br>
-        <span style="color: #EF6C00;"> age max / min:</span> {age_max} ans / {age_min} ans<br>
+        <span style="color: #EF6C00;"> age max / min:</span> {age_max} ans / {age_min} an<br>
         <span style="color: #EF6C00;"> Poids max / min:</span> {poids_max} kg / {poids_min} kg<br><br>
         
         <span style="color: #6A1B9A; font-weight: bold;"> STATUT DE SANTE:</span><br>

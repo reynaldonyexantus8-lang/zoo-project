@@ -1,6 +1,6 @@
 #  Système de Gestion de Zoo (Zoo Management System)
 
-Un système complet de gestion de zoo développé en **Python 3** avec une interface graphique moderne bâtie sur **PyQt** et une persistence de données basée sur des fichiers **CSV**.
+Un système complet de gestion de zoo développé en **Python 3** avec une interface graphique moderne bâtie sur **PyQt6** et une persistence de données basée sur des fichiers **CSV**.
 
 ---
 
